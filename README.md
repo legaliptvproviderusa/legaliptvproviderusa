@@ -49,6 +49,8 @@ Our technology ensures a smooth HD experience with no buffering or downtime.
 - System updates  
 - Promotions and tutorials  
 
+## Related Repositories
+- [USA Legal IPTV Provider Project](https://github.com/legaliptvproviderusa/usa-legal-iptv-provider)
 ---
 
 © 2025 **USA Legal IPTV Provider** — All rights reserved.  
